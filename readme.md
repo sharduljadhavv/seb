@@ -105,6 +105,7 @@ sentence-transformers/all-MiniLM-L6-v2
 
 LLM:
 bigcode/starcoderbase-1b
+(I used this model as it is light and can run on my laptop, you can replace it with a appropriate highly trained model according to your pc/laptop/cloud specs)
 
 ---
 
@@ -113,8 +114,8 @@ bigcode/starcoderbase-1b
 Clone the repository:
 
 ```
-git clone https://github.com/YOUR_USERNAME/AI-Software-Engineer.git
-cd AI-Software-Engineer
+git clone https://github.com/sharduljadhavv/seb.git
+cd seb
 ```
 
 Create a virtual environment:
@@ -215,5 +216,6 @@ Possible improvements include:
 * Web interface
 * Integration with IDEs
 * Better instruction-tuned LLMs
+* Higher quality llms
 
 ---
